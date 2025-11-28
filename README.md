@@ -20,7 +20,7 @@ Tools:
 
 🌱 Studying at École 42 Paris.<br>
 👨‍🎓 Actively looking for internship opportunities.<br>
-📋 My portfolio
+📋 [My portfolio](https://kaierhyeh.github.io/)
 
 
 <!--
